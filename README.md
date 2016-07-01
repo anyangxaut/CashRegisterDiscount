@@ -26,6 +26,8 @@
 			}
 		});
 		
-## Github项目链接：https://github.com/anyangxaut/CashRegisterDiscount.git
+## Github项目链接
+
+https://github.com/anyangxaut/CashRegisterDiscount.git
 
 

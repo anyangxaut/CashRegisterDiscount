@@ -25,5 +25,7 @@
 				return FileUtils.discountFileParse(CashRegisterDiscount.PROJECTPATH + "\\data\\discountTest.txt");
 			}
 		});
+		
+## Github项目链接：https://github.com/anyangxaut/CashRegisterDiscount.git
 
 

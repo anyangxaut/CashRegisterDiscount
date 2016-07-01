@@ -109,7 +109,6 @@ public class CashRegister {
 		System.out.print(receiptBuilder.toString());
 	}
 	
-	
 }
 
 
